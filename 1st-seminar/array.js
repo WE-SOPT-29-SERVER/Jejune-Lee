@@ -76,6 +76,7 @@ console.log(
   }),
 );
 
+
 // 2-10 filter 필터는 배열 요소 전체를 대상으로 조건을 걸어서 그 조건을 충족하는 결과를 새로운 배열을 반환해줌.
 let number = [100, 234, -125, 1, 23, -637, -123, 99, 2, 3, 4, 5];
 let minusNumber = number.filter(item => item < 0);

@@ -36,3 +36,4 @@ const person = function (name, age) {
         age: age,
     };
 };
+

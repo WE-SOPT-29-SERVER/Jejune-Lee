@@ -14,3 +14,4 @@ const variableConst = "321";
 const variableConst = "123";
 console.log("variableConst", variableConst);
 
+

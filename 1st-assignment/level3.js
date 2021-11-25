@@ -12,6 +12,7 @@ members.forEach(member => {
     }
 });
 
+
 //YB, OB 섞기
 function shuffle(array) { array.sort(() => Math.random() - 0.5); } // 구글링 
 shuffle(YB);
