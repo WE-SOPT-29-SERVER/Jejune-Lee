@@ -1,0 +1,22 @@
+{
+  "name": "jejune-lee",
+  "version": "1.0.0",
+  "description": "![github_?ù¥?†úÏ§?_ver1](https://user-images.githubusercontent.com/29723695/135609748-9996d594-0035-4393-a7ee-24ddb95956d3.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WE-SOPT-29-SERVER/Jejune-Lee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WE-SOPT-29-SERVER/Jejune-Lee/issues"
+  },
+  "homepage": "https://github.com/WE-SOPT-29-SERVER/Jejune-Lee#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
