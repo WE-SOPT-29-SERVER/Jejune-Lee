@@ -22,3 +22,4 @@ function colorFunction(){
     console.log(color);
 }
 console.log(color);
+

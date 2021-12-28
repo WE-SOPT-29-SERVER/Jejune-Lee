@@ -2,7 +2,7 @@
 //조원들을 소개 할 수 있는 json Array 만들기
 const MyTeam = {
     members : [
-        {name : "이제준", place: "개봉역", age: "20", hobby: "음주"},
+        {name : "이제준", place: "개봉역", age: "20", hobby: "쉬기"},
         {name : "장서현", place: "신도림역", age: "23", hobby: "영화보기"},
         {name : "권세훈", place: "역곡역", age: "23", hobby: "코딩"},
         {name : "김영권", place: "부천시청역", age: "25", hobby: "강의듣기"}
@@ -16,4 +16,3 @@ const MyTeam = {
     },
 };
 MyTeam.PrintMembers();
-
